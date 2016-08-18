@@ -4,6 +4,14 @@
   border-radius: 50%;
 }
 
+#portfolio, #contact {
+  background-color: #ccc;
+}
+
+hr {
+  opacity: 0;
+}
+
 .fcc {
   color: black;
 }
